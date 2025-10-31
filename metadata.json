@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Event Photo Enhancer",
+  "description": "An application to automatically enhance event photographs by correcting saturation, light, skin tones, and sharpness using AI.",
+  "requestFramePermissions": []
+}
